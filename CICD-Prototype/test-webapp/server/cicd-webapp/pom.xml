@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.revature</groupId>
 	<artifactId>cicd-webapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>cicd-webapp</name>
 	<description>Demo project for cicd deployment</description>
 	<properties>
